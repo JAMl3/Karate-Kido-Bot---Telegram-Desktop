@@ -1,5 +1,7 @@
 # Auto Clicker Bot for karate kido Telegram Desktop 
 
+https://t.me/gamee?game=KarateKido
+
 ## Overview
 
 This project is a Python-based automation script that uses the **mss** library to capture the screen and **OpenCV** for image recognition. The script performs automatic clicks using **pyautogui** when specific patterns or objects are detected within a designated area of the screen. The primary goal of the script is to detect objects (e.g., wood logs) and simulate a clicking action accordingly, alternating between left and right directions.
